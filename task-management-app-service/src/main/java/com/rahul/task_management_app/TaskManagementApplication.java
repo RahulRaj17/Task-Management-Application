@@ -1,4 +1,4 @@
-package com.rahul.task_management_app_service;
+package com.rahul.task_management_app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
